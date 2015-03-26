@@ -27,7 +27,7 @@ class Radio_widget extends WP_Widget {
 			echo $args['before_title'] . $title . $args['after_title'];
 			
 			// Display the output
-			echo "<center><iframe src='http://bigassradio.com/embed/player.php' style='height: 350px; width: 210px; border: 0px;' scrolling='no'></iframe></center>";
+			echo "<center><iframe src='http://embed.bigassradio.com/player.php' style='height: 350px; width: 210px; border: 0px;' scrolling='no'></iframe></center>";
 			echo $args['after_widget'];
 		}//End if
 		
