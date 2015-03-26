@@ -3,7 +3,7 @@ Contributors: Fourteen Six Street
 Tags: streaming radio, streaming, radio, music, entertainment, mp3 player, mp3 stream, mp3, big, ass, radio, big ass radio
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later.
 License URI: http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
 
@@ -11,8 +11,9 @@ Big Ass Radio widget. 15,000 stations in more than 30 genres.
 
 == Description ==
 Big Ass Radio gives your visitors access to 15,000 radio stations, podcasts and more. Works on tablets and smartphones. Super easy to use... Select a Genre, select a station, dance in the street.
-= What's new in verson 1.0 of this plugin? =
-1. Everything! New features coming soon...
+= What's new in verson 1.1 of this plugin? =
+1. Fixed bad URL path
+2. Updated readme file
 
 == Installation ==
 1. Download and unzip bigassradio.zip 
@@ -29,13 +30,13 @@ No.
 
 = Can I add my own content? =
 
-No, but maybe. Contact us if for options.
+No, but maybe. Contact us for options.
 
 Custom mods are handled by Fourteen Six Street, LLC. Contact by emailing info@146st.com.
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 
 * Initial public release.
 

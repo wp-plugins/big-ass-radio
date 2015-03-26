@@ -2,7 +2,7 @@
 /*
 Plugin Name: Big Ass Radio
 Description: Add a Big Ass Radio to your wordpress website. More than 15,000 Big Ass Stations in 30+ genres. 
-Version: 1.0
+Version: 1.1
 */
 
 // Create class
